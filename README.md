@@ -1,1 +1,2 @@
-# Sign-Language-Prediction-using-CNN
+#Sign-Language-Prediction-using-CNN
+This project, developed by Kishan H S, implements a Convolutional Neural Network (CNN) to predict and classify hand gestures used in sign language. The goal of this project is to enable accurate recognition of sign language gestures using deep learning techniques, providing an accessible solution for translating sign language into text. By utilizing a CNN architecture, the model learns to recognize hand gestures from images and map them to their corresponding alphabet or word.
